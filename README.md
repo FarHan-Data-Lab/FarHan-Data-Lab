@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FarHan-Data-Lab
+- 👋 Hi, I’m @Far_Han-Data-Lab
 - 👀 I’m interested in Learning.
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Analysis Projects.
